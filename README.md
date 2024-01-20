@@ -1,7 +1,10 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TYg6MEO6IAYcV_TNdx6QeTeCrQC181iV--2nZO34cH5JWIzANvUuap6u6g&s)]
 <h1 align="center">Hi 👋, I'm Gikonyo</h1>
 <h3 align="center">A student Software Engineer from Kenya.</h3>
-<img align="" alt="programmer" width="400" src="https://ouch-cdn2.icons8.com/D2_lzn-WvTTqBBwbeS_9-Zn__qhqPbmBiQEwFrx4lUg/rs:fit:368:230/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMTM3/L2QwN2ZmNWI0LWE4/OGMtNGZhMi04MzAz/LTI2MDhiOGI0YzQw/YS5zdmc.png">
+
+<img src="[your-image.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgNIgZwf3Ff-EGi4vv25UkZs-wdWgHZ2iqLJVWtRLU-QTLOEjTZDqw9E4bEwqTxmlZIs)" alt="software engineer" width="100%" height="">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gikonyo-mwema&label=Profile%20views&color=0e75b6&style=flat" alt="gikonyo-mwema" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gikonyo-mwema" alt="gikonyo-mwema" /></a> </p>
