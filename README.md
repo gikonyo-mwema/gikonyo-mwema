@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TYg6MEO6IAYcV_TNdx6QeTeCrQC181iV--2nZO34cH5JWIzANvUuap6u6g&s)]
+<!--[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TYg6MEO6IAYcV_TNdx6QeTeCrQC181iV--2nZO34cH5JWIzANvUuap6u6g&s)]-->
 <h1 align="center">Hi 👋, I'm Gikonyo</h1>
 <h3 align="center">A student Software Engineer from Kenya.</h3>
 
