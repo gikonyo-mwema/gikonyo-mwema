@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gikonyo</h1>
 <h3 align="center">A student Software Engineer from Kenya.</h3>
 
-<img src="[your-image.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgNIgZwf3Ff-EGi4vv25UkZs-wdWgHZ2iqLJVWtRLU-QTLOEjTZDqw9E4bEwqTxmlZIs)" alt="software engineer" width="100%" height="100">
+<img src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgNIgZwf3Ff-EGi4vv25UkZs-wdWgHZ2iqLJVWtRLU-QTLOEjTZDqw9E4bEwqTxmlZIs)" alt="software engineer" width="100%" height="100">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gikonyo-mwema&label=Profile%20views&color=0e75b6&style=flat" alt="gikonyo-mwema" /> </p>
