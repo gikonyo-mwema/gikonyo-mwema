@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_TYg6MEO6IAYcV_TNdx6QeTeCrQC181iV--2nZO34cH5JWIzANvUuap6u6g&s)]-->
 <h1 align="center">Hi 👋, I'm Gikonyo</h1>
-<h3 align="center">A student Software Engineer from Kenya.</h3>
+<h3 align="center">A Software Engineer from Kenya.</h3>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkgNIgZwf3Ff-EGi4vv25UkZs-wdWgHZ2iqLJVWtRLU-QTLOEjTZDqw9E4bEwqTxmlZIs" alt="software engineer" width="50%" height="">
 
@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gikonyo-mwema" alt="gikonyo-mwema" /></a> </p>
 
-- 🔭 I’m currently working on **ALX Software Engineering Program**
 
 - 📫 How to reach me **gikonyo.mwema@gmail.com**
 
